@@ -1,5 +1,4 @@
 <a href="https://juejin.cn" target="掘金" title ="掘金">掘金</a>
-<a href="https://www.pdai.tech/md/resource/tools.html" target="Java 全栈知识体系" title ="Java 全栈知识体系">Java 全栈知识体系</a>
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
 <a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 <a href="https://ip.cn/" target="ip查询" title ="ip查询">ip查询</a>
@@ -9,9 +8,6 @@
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
 <a href="" target="_blank" title ="掘金">掘金</a>
 <a href="" target="_blank" title ="掘金">掘金</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
 <h1>微信</h1>
 <a href="https://pay.weixin.qq.com/index.php/core/home/login" target="微信商户平台" title ="微信商户平台">微信商户平台</a>
 <a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=467946659" target="微信公众平台" title ="微信公众平台">微信公众平台</a>
@@ -19,3 +15,8 @@
 <h1>影视</h1>
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
 <a href="https://cupfox.app" target="茶杯狐" title ="茶杯狐">茶杯狐</a>
+<a href="http://www.dmh8.com/" target="樱花" title ="樱花">樱花</a>
+<h1>技术</h1>
+<a href="https://www.pdai.tech/md/resource/tools.html" target="Java 全栈知识体系" title ="Java 全栈知识体系">Java 全栈知识体系</a>
+<a href="http://www.chinaunix.net/" target="chinaunix" title ="chinaunix">chinaunix</a>
+<a href="https://www.jiuzhang.com/" target="九章算法" title ="九章算法">九章算法</a>
