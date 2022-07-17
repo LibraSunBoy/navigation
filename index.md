@@ -9,8 +9,8 @@
 <a href="https://ip.cn/" target="ip查询" title ="ip查询">ip查询</a>
 <a href="https://tool.lu/timestamp" target="时间戳" title ="时间戳">时间戳</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
+<a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
+<a href="file:///D:/navigation.html" target="终身" title ="终身">终身</a>
 <a href="" target="_blank" title ="掘金">掘金</a>
 <a href="" target="_blank" title ="掘金">掘金</a>
 <a href="" target="_blank" title ="掘金">掘金</a>
