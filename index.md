@@ -19,7 +19,8 @@
 <a href="https://www.w3cschool.cn/indexold/" target="w3cschool" title ="w3cschool">w3cschool</a>
 <a href="https://www.runoob.com/" target="菜鸟教程" title ="菜鸟教程">菜鸟教程</a>
 <h1>VPN</h1>
-<a href="" target="" title =""></a>
+<a href="https://wwi.lanzoup.com/i6vkU07y6zfi" target="佛跳墙" title ="佛跳墙">佛跳墙</a>
+<a href="https://wwi.lanzoup.com/i4rIP07y74ve" target="极光" title ="极光">极光</a>
 <h1>微信</h1>
 <a href="https://pay.weixin.qq.com/index.php/core/home/login" target="微信商户平台" title ="微信商户平台">微信商户平台</a>
 <a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=467946659" target="微信公众平台" title ="微信公众平台">微信公众平台</a>
