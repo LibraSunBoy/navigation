@@ -4,7 +4,7 @@
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
 <a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
-<a href="" target="_blank" title ="掘金">掘金</a>
+<a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
 <h1>工具</h1>
 <a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
