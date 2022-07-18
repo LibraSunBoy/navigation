@@ -19,7 +19,7 @@
 <a href="https://www.w3cschool.cn/indexold/" target="w3cschool" title ="w3cschool">w3cschool</a>
 <a href="https://www.runoob.com/" target="菜鸟教程" title ="菜鸟教程">菜鸟教程</a>
 <a href="http://www.manongjc.com/" target="码农教程" title ="码农教程">码农教程</a>
-<a href="https://search.maven.org/" target="maven仓库" title ="maven仓库">maven仓库</a>
+<a href="https://mvnrepository.com/" target="maven仓库" title ="maven仓库">maven仓库</a>
 
 <h1>VPN</h1>
 <a href="https://wwi.lanzoup.com/i6vkU07y6zfi" target="佛跳墙" title ="佛跳墙">佛跳墙</a>
