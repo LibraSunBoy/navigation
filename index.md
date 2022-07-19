@@ -21,7 +21,7 @@
 <h1>前端</h1>
 <a href="https://uniapp.dcloud.io/" target="uni-app" title ="uni-app">uni-app</a>
 <a href="https://taro.jd.com/" target="taro" title ="taro">taro</a>
-<a href="https://zh-hans.reactjs.org/" target="reactjs" title ="reactjs">reactjs</a>
+<a href="https://zh-hans.reactjs.org/" target="reactjs" title ="reactjs">React</a>
 <a href="https://cn.vuejs.org/" target="Vue2" title ="Vue2">Vue2</a>
 <a href="https://v3.cn.vuejs.org/" target="Vue3" title ="Vue3">Vue3</a>
 <a href="https://element.eleme.cn/#/zh-CN" target="element" title ="element">element</a>
