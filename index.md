@@ -39,7 +39,8 @@
 <h1>下载</h1>
 <a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/" target="git" title ="git">git</a>
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
-<h1>VPN</h1>
+<h1>软件</h1>
+<a href="https://wwi.lanzoup.com/ieMNH09umu1i" target="XShell7" title ="XShell7">XShell7</a>
 <a href="https://wwi.lanzoup.com/i6vkU07y6zfi" target="佛跳墙" title ="佛跳墙">佛跳墙</a>
 <a href="https://wwi.lanzoup.com/i4rIP07y74ve" target="极光" title ="极光">极光</a>
 <h1>微信</h1>
