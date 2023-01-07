@@ -38,6 +38,7 @@
 <a href="http://www.manongjc.com/" target="码农教程" title ="码农教程">码农教程</a>
 <a href="https://tool.oschina.net/apidocs/" target="oschina" title ="oschina">oschina</a>
 <a href="http://c.biancheng.net/design_pattern/" target="设计模式" title ="设计模式">设计模式</a>
+<a href="https://pdai.tech/" target="pdai" title ="pdai">pdai</a>
 <h1>下载</h1>
 <a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/" target="git" title ="git">git</a>
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
