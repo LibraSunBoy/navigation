@@ -9,7 +9,7 @@
 <a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
 <a href="https://tool.lu/timestamp" target="时间戳" title ="时间戳">时间戳</a>
-<a href="https://www.bejson.com/jsonviewernew/" target="json视图" title ="json视图">json视图</a>
+<a href="https://www.bejson.com/explore/index_new/" target="json视图" title ="json视图">json视图</a>
 <a href="https://ip.cn/" target="ip查询" title ="ip查询">ip查询</a>
 <a href="http://www.wetools.com/websocket/" target="websocket" title ="websocket">websocket</a>
 
