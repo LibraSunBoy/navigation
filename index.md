@@ -40,7 +40,7 @@
 
 <h1>接单</h1>
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
-<a href="[https://codemart.com/](https://www.sxsoft.com/)" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
+<a href="https://www.sxsoft.com" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
 
 
 
