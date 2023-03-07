@@ -40,6 +40,9 @@
 
 <h1>接单</h1>
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
+<a href="[https://codemart.com/](https://www.sxsoft.com/)" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
+
+
 
 <h1>微信</h1>
 <a href="https://pay.weixin.qq.com/index.php/core/home/login" target="微信商户平台" title ="微信商户平台">微信商户平台</a>
