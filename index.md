@@ -48,6 +48,7 @@
 <a href="https://devnors.org/" target = "devnors" title= "devnors">devnors</a>
 <a href="https://www.freetalen.com/" target = "飞援" title= "飞援">飞援</a>
 <a href="https://www.jfh.com/" target = "解放号" title= "解放号">解放号</a>
+<a href="https://www.clouderwork.com/" target = "云沃客" title= "云沃客">云沃客</a>
 
 <a href="https://www.sxsoft.com" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
 
