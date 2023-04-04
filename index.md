@@ -42,6 +42,13 @@
 
 <h1>接单</h1>
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
+<a href="https://www.proginn.com/" target = "程序员客栈" title= "程序员客栈">程序员客栈</a>
+<a href="https://www.yingxuan.co/" target = "英选" title= "英选">英选</a>
+<a href="https://zb.oschina.net/projects/list.html" target = "开源众包" title= "开源众包">开源众包</a>
+<a href="https://devnors.org/" target = "devnors" title= "devnors">devnors</a>
+<a href="https://www.freetalen.com/" target = "飞援" title= "飞援">飞援</a>
+<a href="https://www.jfh.com/" target = "解放号" title= "解放号">解放号</a>
+
 <a href="https://www.sxsoft.com" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
 
 
