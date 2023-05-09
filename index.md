@@ -19,6 +19,8 @@
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
 
 <a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
+<a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
+
 <h1>学习</h1>
 <a href="http://springboot.fun/" target="springboot" title ="springboot">springboot</a>
 <a href="https://www.springcloud.cc/" target="springcloud-cn" title ="springcloud-cn">springcloud</a>
