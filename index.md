@@ -5,6 +5,9 @@
 <a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
 <a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
+<h1>AI</h1>
+<a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
+<a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
 <h1>工具</h1>
 <a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
@@ -17,10 +20,6 @@
 <a href="https://chat.openai.com/" target="ChatGPT" title ="ChatGPT">ChatGPT</a>
 <a href="https://start.spring.io/actuator/info" target="springboot（cloud）" title ="springboot（cloud）">springboot(cloud)对应关系</a>
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
-
-<a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
-<a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
-
 <h1>学习</h1>
 <a href="http://springboot.fun/" target="springboot" title ="springboot">springboot</a>
 <a href="https://www.springcloud.cc/" target="springcloud-cn" title ="springcloud-cn">springcloud</a>
@@ -44,7 +43,6 @@
 <h1>面试题</h1>
 <a href="https://note.youdao.com/ynoteshare/index.html?id=c10ecc5535e673b3f7fa396e57866569&type=note&_time=1677825428941" target="阿里云面试总结及面试题详解" title ="阿里云面试总结及面试题详解">阿里云面试总结及面试题详解</a>
 <a href="https://shimo.im/docs/LUYuXUGSX8wTOzY7/read" target="阿里云面试总结" title ="阿里云面试总结">阿里云面试总结</a>
-
 <h1>接单</h1>
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
 <a href="https://www.proginn.com/" target = "程序员客栈" title= "程序员客栈">程序员客栈</a>
@@ -57,17 +55,12 @@
 <a href="https://shixian.com/" target = "实现网" title= "实现网">实现网</a>
 <a href="https://eleduck.com/" target = "电鸭" title= "电鸭">电鸭</a>
 <a href="https://www.yuanjisong.com/" target = "猿急送" title= "猿急送">猿急送</a>
-
 <a href="https://www.sxsoft.com" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
-
-
-
 <h1>微信</h1>
 <a href="https://pay.weixin.qq.com/index.php/core/home/login" target="微信商户平台" title ="微信商户平台">微信商户平台</a>
 <a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=467946659" target="微信公众平台" title ="微信公众平台">微信公众平台</a>
 <a href="https://open.weixin.qq.com/cgi-bin/frame?t=home/web_tmpl&lang=zh_CN" target="微信开放平台" title ="微信开放平台">微信开放平台</a>
 <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="weixin" title ="weixin">微信官方文档</a>
-
 <h1>前端</h1>
 <a href="https://uniapp.dcloud.io/" target="uni-app" title ="uni-app">uni-app</a>
 <a href="https://taro.jd.com/" target="taro" title ="taro">taro</a>
@@ -75,7 +68,6 @@
 <a href="https://cn.vuejs.org/" target="Vue2" title ="Vue2">Vue2</a>
 <a href="https://v3.cn.vuejs.org/" target="Vue3" title ="Vue3">Vue3</a>
 <a href="https://element.eleme.cn/#/zh-CN" target="element" title ="element">element</a>
-
 <h1>下载</h1>
 <a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/" target="git" title ="git">git</a>
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
