@@ -94,5 +94,5 @@
 <a href="https://www.80s.tw/" target="80s" title ="80s">80s</a>
 
 <h1>国外</h1>
-<a href="https://sms-activate.org/#" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
-<a href="https://sms-activate.org/#" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
+<a href="https://sms-activate.org/" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
+<a href="https://nic.eu.org/" target="欧盟域名" title ="欧盟域名">欧盟域名</a>
