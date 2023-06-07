@@ -9,6 +9,8 @@
 <h1>AI</h1>
 <a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
 <a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
+<a href="https://ai-bot.cn/" target="AI工具集" title ="AI工具集">AI工具集</a>
+
 <h1>工具</h1>
 <a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
