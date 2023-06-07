@@ -97,6 +97,7 @@
 <a href="https://www.80s.tw/" target="80s" title ="80s">80s</a>
 
 <h1>国外</h1>
+<a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
 <a href="https://www.google.com/" target="google" title ="google">google</a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
 <a href="https://login.microsoftonline.com/" target="Microsoft" title ="Microsoft">Microsoft</a>
