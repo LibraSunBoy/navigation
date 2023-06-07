@@ -25,6 +25,8 @@
 <a href="https://chat.openai.com/" target="ChatGPT" title ="ChatGPT">ChatGPT</a>
 <a href="https://start.spring.io/actuator/info" target="springboot（cloud）" title ="springboot（cloud）">springboot(cloud)对应关系</a>
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
+<a href="https://msdn.itellyou.cn/" target="msdn" title ="msdn">msdn</a>
+
 <h1>学习</h1>
 <a href="http://springboot.fun/" target="springboot" title ="springboot">springboot</a>
 <a href="https://www.springcloud.cc/" target="springcloud-cn" title ="springcloud-cn">springcloud</a>
@@ -99,3 +101,4 @@
 <a href="https://sms-activate.org/" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
 <a href="https://nic.eu.org/" target="欧盟域名" title ="欧盟域名">欧盟域名</a>
 <a href="https://www.meiguodizhi.com/" target="地址生成器" title ="地址生成器">地址生成器</a>
+<a href="https://www.godaddy.com/en-sg" target="godaddy" title ="godaddy">godaddy</a>
