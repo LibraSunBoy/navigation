@@ -105,5 +105,6 @@
 <a href="https://www.youtube.com/" target="youtube" title ="youtube">youtube</a>
 <a href="https://sms-activate.org/" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
 <a href="https://nic.eu.org/" target="欧盟域名" title ="欧盟域名">欧盟域名</a>
+<a href="https://www.cloudflare.com/zh-cn/" target="cloudflare" title ="cloudflare">cloudflare</a>
 <a href="https://www.meiguodizhi.com/" target="地址生成器" title ="地址生成器">地址生成器</a>
 <a href="https://www.godaddy.com/en-sg" target="godaddy" title ="godaddy">godaddy</a>
