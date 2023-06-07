@@ -102,3 +102,4 @@
 <a href="https://nic.eu.org/" target="欧盟域名" title ="欧盟域名">欧盟域名</a>
 <a href="https://www.meiguodizhi.com/" target="地址生成器" title ="地址生成器">地址生成器</a>
 <a href="https://www.godaddy.com/en-sg" target="godaddy" title ="godaddy">godaddy</a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
