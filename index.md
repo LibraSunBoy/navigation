@@ -103,3 +103,4 @@
 <a href="https://www.meiguodizhi.com/" target="地址生成器" title ="地址生成器">地址生成器</a>
 <a href="https://www.godaddy.com/en-sg" target="godaddy" title ="godaddy">godaddy</a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
+<a href="https://login.microsoftonline.com/" target="Microsoft" title ="Microsoft">Microsoft</a>
