@@ -3,6 +3,7 @@
 <a href="https://gitee.com/" target="gitee" title ="gitee">gitee</a>
 <a href="https://juejin.cn" target="掘金" title ="掘金">掘金</a>
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
+<a href="https://www.csdn.net/" target="CSDN" title ="CSDN">CSDN</a>
 <a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
 <a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
@@ -94,5 +95,7 @@
 <a href="https://www.80s.tw/" target="80s" title ="80s">80s</a>
 
 <h1>国外</h1>
+<a href="https://www.youtube.com/" target="youtube" title ="youtube">youtube</a>
 <a href="https://sms-activate.org/" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
 <a href="https://nic.eu.org/" target="欧盟域名" title ="欧盟域名">欧盟域名</a>
+<a href="https://www.meiguodizhi.com/" target="地址生成器" title ="地址生成器">地址生成器</a>
