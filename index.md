@@ -98,6 +98,7 @@
 
 <h1>国外</h1>
 <a href="https://www.bing.com/" target="bing" title ="bing">bing</a>
+<a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
 <a href="https://www.facebook.com/" target="facebook" title ="facebook">facebook</a>
 <a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
 <a href="https://www.google.com/" target="google" title ="google">google</a>
