@@ -87,10 +87,9 @@
 <a href="https://wwi.lanzoup.com/iCVZF0zj4zwb" target="bandizip6" title ="bandizip6">bandizip6</a>
 <a href="https://wwi.lanzoup.com/ip2AL0zki3yb" target="redis" title ="redis">redis</a>
 <a href="https://wwi.lanzoup.com/iO9gT0zj54uj" target="maven" title ="maven">maven</a>
-<a href="https://wwi.lanzoup.com/iO9gT0zj54uj" target="maven" title ="maven">maven</a>
-<a href="https://wwi.lanzoup.com/iO9gT0zj54uj" target="maven" title ="maven">maven</a>
-
-
+<a href="https://wwi.lanzoup.com/ilejj1180kij" target="svn" title ="svn">svn</a>
+<a href="https://wwi.lanzoup.com/iDllz10me64d" target="idea激活码" title ="idea激活码">idea激活码</a>
+<a href="https://wwi.lanzoup.com/i66ih10md5re" target="idea破解软件" title ="idea破解软件">idea破解软件</a>
 
 <h1>影视</h1>
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
