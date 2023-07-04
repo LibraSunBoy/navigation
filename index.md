@@ -80,8 +80,8 @@
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
 <h1>软件</h1>
 <a href="https://wwi.lanzoup.com/ieMNH09umu1i" target="XShell7" title ="XShell7">XShell7</a>
-<a href="https://wwi.lanzoup.com/i6vkU07y6zfi" target="佛跳墙" title ="佛跳墙">佛跳墙</a>
-<a href="https://wwi.lanzoup.com/i4rIP07y74ve" target="极光" title ="极光">极光</a>
+<a href="https://wwi.lanzoup.com/imUkL0irrnij" target="navicat16" title ="navicat16">navicat16</a>
+<a href="https://wwi.lanzoup.com/iy8C910mbr1i" target="node13" title ="node13">node13</a>
 <h1>影视</h1>
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
 <a href="https://cupfox.app" target="茶杯狐" title ="茶杯狐">茶杯狐</a>
