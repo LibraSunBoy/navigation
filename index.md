@@ -121,3 +121,4 @@
 <a href="https://www.godaddy.com/en-sg" target="godaddy" title ="godaddy">godaddy</a>
 <a href="https://www.aconvert.com/" target="文件在线转换" title ="文件在线转换">文件在线转换</a>
 <a href="https://musclewiki.com/" target="健身教学" title ="健身教学">健身教学</a>
+<a href="https://storyset.com/" target="插图工具" title ="插图工具">插图工具</a>
