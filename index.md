@@ -90,8 +90,8 @@
 <a href="https://wwi.lanzoup.com/ilejj1180kij" target="svn" title ="svn">svn</a>
 <a href="https://wwi.lanzoup.com/iDllz10me64d" target="idea激活码" title ="idea激活码">idea激活码</a>
 <a href="https://wwi.lanzoup.com/i66ih10md5re" target="idea破解软件" title ="idea破解软件">idea破解软件</a>
-<a href="https://wwi.lanzoup.com/i9DwM13y9mbg" target="Notepad next" title ="Notepad next">Notepad next</a>
-<a href="https://wwi.lanzoup.com/iGUBS13pfcre" target="Clash Window" title ="Clash Window">Clash Window</a>
+<a href="https://wwi.lanzoup.com/i9DwM13y9mbg" target="Notepad next" title ="Notepad next">Notepad-next</a>
+<a href="https://wwi.lanzoup.com/iGUBS13pfcre" target="Clash Window" title ="Clash Window">Clash-Window</a>
 
 <h1>影视</h1>
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
