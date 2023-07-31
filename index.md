@@ -81,7 +81,7 @@
 <h1>软件</h1>
 <a href="https://wwi.lanzoup.com/ieMNH09umu1i" target="XShell7" title ="XShell7">XShell7</a>
 <a href="https://wwi.lanzoup.com/imUkL0irrnij" target="navicat16" title ="navicat16">navicat16</a>
-<a href="https://wwi.lanzoup.com/iy8C910mbr1i" target="node13" title ="node13">node13</a>
+<a href="https://wwi.lanzoup.com/iuBtg13msuza" target="node13" title ="node13">node13</a>
 <a href="https://wwi.lanzoup.com/iF5fc10mbzej" target="oss-browser" title ="oss-browser">oss-browser</a>
 <a href="https://wwi.lanzoup.com/iiqLw0zj55sd" target="git" title ="git">git</a>
 <a href="https://wwi.lanzoup.com/iCVZF0zj4zwb" target="bandizip6" title ="bandizip6">bandizip6</a>
@@ -90,6 +90,8 @@
 <a href="https://wwi.lanzoup.com/ilejj1180kij" target="svn" title ="svn">svn</a>
 <a href="https://wwi.lanzoup.com/iDllz10me64d" target="idea激活码" title ="idea激活码">idea激活码</a>
 <a href="https://wwi.lanzoup.com/i66ih10md5re" target="idea破解软件" title ="idea破解软件">idea破解软件</a>
+<a href="https://wwi.lanzoup.com/i9DwM13y9mbg" target="Notepad next" title ="Notepad next">Notepad next</a>
+<a href="https://wwi.lanzoup.com/iGUBS13pfcre" target="Clash Window" title ="Clash Window">Clash Window</a>
 
 <h1>影视</h1>
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
