@@ -8,6 +8,7 @@
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
 <a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
 <h1>AI</h1>
+<a href="https://chatgpt.igulu.love/" target="咕噜chatGPT" title ="咕噜chatGPT">咕噜chatGPT</a>
 <a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
 <a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
 <a href="https://ai-bot.cn/" target="AI工具集" title ="AI工具集">AI工具集</a>
