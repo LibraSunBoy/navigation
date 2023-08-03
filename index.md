@@ -7,14 +7,17 @@
 <a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 <a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
 <a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
-<h1>AI</h1>
+<h1>邮箱</h1>
+<a href="https://mail.163.com/" target="网易" title ="网易">网易</a>
+<a href="https://mail.qq.com/" target="QQ" title ="QQ">QQ</a>
+<a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
+<h1>工具</h1>
 <a href="https://chatgpt.igulu.love/" target="咕噜chatGPT" title ="咕噜chatGPT">咕噜chatGPT</a>
 <a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
 <a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
 <a href="https://ai-bot.cn/" target="AI工具集" title ="AI工具集">AI工具集</a>
 <a href="https://www.aiodt.com/" target="AI工具箱" title ="AI工具箱">AI工具箱</a>
-
-<h1>工具</h1>
 <a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
 <a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
 <a href="https://tool.lu/timestamp" target="时间戳" title ="时间戳">时间戳</a>
@@ -25,10 +28,10 @@
 <a href="https://boardmix.cn/app/my-space/" target="boardmix" title ="boardmix">boardmix</a>
 <a href="https://chat.openai.com/" target="ChatGPT" title ="ChatGPT">ChatGPT</a>
 <a href="https://start.spring.io/actuator/info" target="springboot（cloud）" title ="springboot（cloud）">springboot(cloud)对应关系</a>
-<a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
 <a href="https://msdn.itellyou.cn/" target="msdn" title ="msdn">msdn</a>
 <a href="https://tools.pdf24.org/" target="PDF在线工具" title ="PDF在线工具">PDF在线工具</a>
 <h1>学习</h1>
+<a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
 <a href="http://springboot.fun/" target="springboot" title ="springboot">springboot</a>
 <a href="https://www.springcloud.cc/" target="springcloud-cn" title ="springcloud-cn">springcloud</a>
 <a href="https://baomidou.com/pages/24112f/" target="MyBatis-Plus" title ="MyBatis-Plus">MyBatis-Plus</a>
@@ -79,7 +82,6 @@
 <h1>下载</h1>
 <a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/" target="git" title ="git">git</a>
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
-<h1>软件</h1>
 <a href="https://wwi.lanzoup.com/ieMNH09umu1i" target="XShell7" title ="XShell7">XShell7</a>
 <a href="https://wwi.lanzoup.com/imUkL0irrnij" target="navicat16" title ="navicat16">navicat16</a>
 <a href="https://wwi.lanzoup.com/iuBtg13msuza" target="node13" title ="node13">node13</a>
@@ -112,9 +114,7 @@
 <a href="https://www.bing.com/" target="bing" title ="bing">bing</a>
 <a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
 <a href="https://www.facebook.com/" target="facebook" title ="facebook">facebook</a>
-<a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
 <a href="https://www.google.com/" target="google" title ="google">google</a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
 <a href="https://login.microsoftonline.com/" target="Microsoft" title ="Microsoft">Microsoft</a>
 <a href="https://www.youtube.com/" target="youtube" title ="youtube">youtube</a>
 <a href="https://sms-activate.org/" target="虚拟号码" title ="虚拟号码">虚拟号码</a>
