@@ -13,6 +13,7 @@
 <a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
 <h1>工具</h1>
+
 <a href="https://chatgpt.igulu.love/" target="咕噜chatGPT" title ="咕噜chatGPT">咕噜chatGPT</a>
 <a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
 <a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
@@ -26,11 +27,13 @@
 <a href="http://www.wetools.com/websocket/" target="websocket" title ="websocket">websocket</a>
 <a href="https://app.diagrams.net/" target="draw.io" title ="draw.io">draw.io</a>
 <a href="https://boardmix.cn/app/my-space/" target="boardmix" title ="boardmix">boardmix</a>
+
 <a href="https://chat.openai.com/" target="ChatGPT" title ="ChatGPT">ChatGPT</a>
 <a href="https://start.spring.io/actuator/info" target="springboot（cloud）" title ="springboot（cloud）">springboot(cloud)对应关系</a>
 <a href="https://msdn.itellyou.cn/" target="msdn" title ="msdn">msdn</a>
 <a href="https://tools.pdf24.org/" target="PDF在线工具" title ="PDF在线工具">PDF在线工具</a>
 <h1>学习</h1>
+
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">结构效果演示</a>
 <a href="http://springboot.fun/" target="springboot" title ="springboot">springboot</a>
 <a href="https://www.springcloud.cc/" target="springcloud-cn" title ="springcloud-cn">springcloud</a>
@@ -43,6 +46,7 @@
 <a href="https://www.pdai.tech/md/resource/tools.html" target="Java 全栈知识体系" title ="Java 全栈知识体系">Java 全栈知识体系</a>
 <a href="http://www.chinaunix.net/" target="chinaunix" title ="chinaunix">chinaunix</a>
 <a href="https://www.jiuzhang.com/" target="九章算法" title ="九章算法">九章算法</a>
+
 <a href="https://stackoverflow.com/" target="stackoverflow" title ="stackoverflow">stackoverflow</a>
 <a href="https://www.w3cschool.cn/indexold/" target="w3cschool" title ="w3cschool">w3cschool</a>
 <a href="https://www.runoob.com/" target="菜鸟教程" title ="菜鸟教程">菜鸟教程</a>
@@ -111,6 +115,7 @@
 <a href="https://www.80s.tw/" target="80s" title ="80s">80s</a>
 
 <h1>国外</h1>
+
 <a href="https://www.bing.com/" target="bing" title ="bing">bing</a>
 <a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
 <a href="https://www.facebook.com/" target="facebook" title ="facebook">facebook</a>
