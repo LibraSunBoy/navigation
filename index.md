@@ -118,8 +118,6 @@
 
 # 国外
 
-[GitHub](https://github.com)
-
 <a href="https://www.bing.com/" target="bing" title ="bing">bing</a>
 <a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
 <a href="https://www.facebook.com/" target="facebook" title ="facebook">facebook</a>
