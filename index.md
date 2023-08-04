@@ -1,6 +1,6 @@
 # 常用
-[GitHub](https://github.com)
-<a href="https://gitee.com/" target="gitee" title ="gitee">gitee</a>
+[GitHub](https://github.com "GitHub")
+[Gitee](https://gitee.com/ "Gitee")
 <a href="https://juejin.cn" target="掘金" title ="掘金">掘金</a>
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
 <a href="https://www.csdn.net/" target="CSDN" title ="CSDN">CSDN</a>
