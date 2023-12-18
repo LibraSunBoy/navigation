@@ -122,6 +122,7 @@
 <a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
 <a href="https://www.facebook.com/" target="facebook" title ="facebook">facebook</a>
 <a href="https://www.google.com/" target="google" title ="google">google</a>
+<a href="https://www.google.com/adsense/new/u/0/pub-8923095162440718/onboarding" target="谷歌广告联盟" title ="谷歌广告联盟">谷歌广告联盟</a>
 <a href="https://login.microsoftonline.com/" target="Microsoft" title ="Microsoft">Microsoft</a>
 <a href="https://www.youtube.com/" target="youtube" title ="youtube">youtube</a>
 <a href="https://www.cloudflare.com/zh-cn/" target="cloudflare" title ="cloudflare">cloudflare</a>
