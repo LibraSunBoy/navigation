@@ -100,6 +100,7 @@
 <a href="https://wwi.lanzoup.com/i66ih10md5re" target="idea破解软件" title ="idea破解软件">idea破解软件</a>
 <a href="https://wwi.lanzoup.com/i9DwM13y9mbg" target="Notepad next" title ="Notepad next">Notepad-next</a>
 
+<a href="https://registry.npmmirror.com/binary.html?path=node/" target="node 安装包" title ="node 安装包">node 安装包</a>
 <a href="https://wwi.lanzoup.com/iGUBS13pfcre" target="Clash Window" title ="Clash Window">Clash-Window</a>
 
 # 影视
