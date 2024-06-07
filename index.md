@@ -150,3 +150,5 @@
 <a href="https://internxt.com/zh/temporary-email" target="免费虚拟邮箱" title ="免费虚拟邮箱">免费虚拟邮箱</a>
 <a href="https://www.meiguodizhi.com/" target="免费地址生成器" title ="免费地址生成器">免费地址生成器</a>
 <a href="https://nic.eu.org/" target="免费欧盟域名" title ="免费欧盟域名">免费欧盟域名</a>
+<a href="https://letsencrypt.osfipin.com/" target="来此加密" title ="来此加密">来此加密</a>
+
