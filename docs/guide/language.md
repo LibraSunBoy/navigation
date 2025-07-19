@@ -1,44 +1,10 @@
-# 常用
-
-<a href="https://github.com" target="GitHub" title ="GitHub">GitHub</a>
-<a href="https://gitee.com" target="Gitee" title ="Gitee">Gitee</a>
-<a href="https://juejin.cn" target="掘金" title ="掘金">掘金</a>
+# 语言
+## JAVA
+[Spring](https://spring.io)
+[SpringMVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
-<a href="https://www.csdn.net/" target="CSDN" title ="CSDN">CSDN</a>
-<a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
-<a href="https://www.aliyun.com/" target="阿里云" title ="阿里云">阿里云</a>
-<a href="https://www.lanzou.com/" target="蓝奏云" title ="蓝奏云">蓝奏云</a>
 
-# 邮箱
-
-<a href="https://mail.163.com/" target="网易" title ="网易">网易</a>
-<a href="https://mail.qq.com/" target="QQ" title ="QQ">QQ</a>
-<a href="https://outlook.live.com/mail/0/" target="outlook" title ="outlook">outlook</a>
-<a href="https://mail.google.com/mail/u/0/#inbox" target="Gmail" title ="Gmail">Gmail</a>
-
-# 工具
-
-<a href="https://chatgpt.igulu.love/" target="咕噜chatGPT" title ="咕噜chatGPT">咕噜chatGPT</a>
-<a href="https://www.rightbrain.art/" target="国产AI绘画神器" title ="国产AI绘画神器">国产AI绘画神器</a>
-<a href="https://www.liblibai.com/" target="模型广场" title ="模型广场">模型广场</a>
-<a href="https://ai-bot.cn/" target="AI工具集" title ="AI工具集">AI工具集</a>
-<a href="https://www.aiodt.com/" target="AI工具箱" title ="AI工具箱">AI工具箱</a>
-<a href="http://nmt.youdao.com/" target="翻译" title ="翻译">翻译</a>
-<a href="https://www.liantu.com/" target="二维码" title ="二维码">二维码</a>
-<a href="https://tool.lu/timestamp" target="时间戳" title ="时间戳">时间戳</a>
-<a href="https://www.bejson.com/explore/index_new/" target="json视图" title ="json视图">json视图</a>
-<a href="https://ip.cn/" target="ip查询" title ="ip查询">ip查询</a>
-<a href="http://www.wetools.com/websocket/" target="websocket" title ="websocket">websocket</a>
-<a href="https://app.diagrams.net/" target="draw.io" title ="draw.io">draw.io</a>
-<a href="https://boardmix.cn/app/my-space/" target="boardmix" title ="boardmix">boardmix</a>
-
-<a href="https://chat.openai.com/" target="ChatGPT" title ="ChatGPT">ChatGPT</a>
-<a href="https://start.spring.io/actuator/info" target="springboot（cloud）" title ="springboot（cloud）">springboot(cloud)
-对应关系</a>
-<a href="https://msdn.itellyou.cn/" target="msdn" title ="msdn">msdn</a>
-<a href="https://tools.pdf24.org/" target="PDF在线工具" title ="PDF在线工具">PDF在线工具</a>
-
-# 学习
+## 学习
 
 <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="结构效果演示" title ="结构效果演示">
 结构效果演示</a>
@@ -64,14 +30,13 @@
 <a href="https://pdai.tech/" target="pdai" title ="pdai">pdai</a>
 <a href="https://www.wdbyte.com/" target="未读代码" title ="未读代码">未读代码</a>
 
-# 面试题
+## 面试题
+[芋道源码](https://www.iocoder.cn)
+[小林coding](https://xiaolincoding.com)
+[面试鸭](https://www.mianshiya.com/)
+[Java突击队](http://www.susan.net.cn/)
 
-<a href="https://note.youdao.com/ynoteshare/index.html?id=c10ecc5535e673b3f7fa396e57866569&type=note&_time=1677825428941" target="阿里云面试总结及面试题详解" title ="阿里云面试总结及面试题详解">
-阿里云面试总结及面试题详解</a>
-<a href="https://shimo.im/docs/LUYuXUGSX8wTOzY7/read" target="阿里云面试总结" title ="阿里云面试总结">阿里云面试总结</a>
-
-# 接单
-
+## 接单
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
 <a href="https://www.proginn.com/" target = "程序员客栈" title= "程序员客栈">程序员客栈</a>
 <a href="https://www.yingxuan.co/" target = "英选" title= "英选">英选</a>
@@ -85,7 +50,7 @@
 <a href="https://www.yuanjisong.com/" target = "猿急送" title= "猿急送">猿急送</a>
 <a href="https://www.sxsoft.com" target = "软件项目交易网" title= "软件项目交易网">软件项目交易网</a>
 
-# 微信
+## 微信
 
 <a href="https://pay.weixin.qq.com/index.php/core/home/login" target="微信商户平台" title ="微信商户平台">
 微信商户平台</a>
@@ -94,8 +59,10 @@
 <a href="https://open.weixin.qq.com/cgi-bin/frame?t=home/web_tmpl&lang=zh_CN" target="微信开放平台" title ="微信开放平台">
 微信开放平台</a>
 <a href="https://developers.weixin.qq.com/miniprogram/dev/framework/" target="weixin" title ="weixin">微信官方文档</a>
+## 支付宝
+<a href="https://open.alipay.com/" target="_blank" title ="支付宝">支付宝</a>
 
-# 前端
+## 前端
 
 <a href="https://uniapp.dcloud.io/" target="uni-app" title ="uni-app">uni-app</a>
 <a href="https://taro.jd.com/" target="taro" title ="taro">taro</a>
@@ -104,7 +71,7 @@
 <a href="https://v3.cn.vuejs.org/" target="Vue3" title ="Vue3">Vue3</a>
 <a href="https://element.eleme.cn/#/zh-CN" target="element" title ="element">element</a>
 
-# 下载
+## 下载
 
 <a href="https://registry.npmmirror.com/binary.html?path=git-for-windows/" target="git" title ="git">git</a>
 <a href="https://developer.aliyun.com/mirror/" target="阿里云镜像" title ="阿里云镜像">阿里云镜像</a>
@@ -125,7 +92,7 @@
 安装包</a>
 <a href="https://wwi.lanzoup.com/iGUBS13pfcre" target="Clash Window" title ="Clash Window">Clash-Window</a>
 
-# 影视
+## 影视
 
 <a href="https://www.bilibili.com" target="哔哩哔哩" title ="哔哩哔哩">哔哩哔哩</a>
 <a href="https://cupfox.app" target="茶杯狐" title ="茶杯狐">茶杯狐</a>
@@ -140,7 +107,7 @@
 <a href="http://www.hnqzsy.net/" target="火鸟影视" title ="火鸟影视">火鸟影视</a>
 <a href="https://www.80s.tw/" target="80s" title ="80s">80s</a>
 
-# 国外
+## 国外
 
 <a href="https://www.bing.com/" target="bing" title ="bing">bing</a>
 <a href="https://www.paypal.com/" target="paypal" title ="paypal">paypal</a>
