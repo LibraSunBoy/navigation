@@ -14,8 +14,12 @@
 
 [Remix](https://remix.ethereum.org)
 
-## 招聘平台
+# 招聘平台
 
 [Web3.career](https://web3.career/)
 [Crypto Jobs List](https://cryptojobslist.com/)
 [Remote3](https://remote3.co/)
+
+# 交易平台
+
+[欧易](https://www.okx.com/)

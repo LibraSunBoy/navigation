@@ -25,10 +25,12 @@ jobs:
           
           # 确保dist目录存在
           mkdir -p docs/.vuepress/dist
+          # 将 CNAME 文件复制到输出目录（文件名必须全大写）
+      #          echo "igulu.dpdns.org/" > docs/.vuepress/dist/CNAME  # 替换 yourdomain.com 为实际域名
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: docs/.vuepress/dist
-          keep_files: false  # 完全覆盖目标分支
+          keep_files: true  # 完全覆盖目标分支
