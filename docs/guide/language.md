@@ -1,5 +1,7 @@
 # 语言
+
 ## JAVA
+
 [Spring](https://spring.io)
 [SpringMVC](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
 <a href="https://www.zhihu.com" target="知乎" title ="知乎">知乎</a>
@@ -30,13 +32,18 @@
 <a href="https://pdai.tech/" target="pdai" title ="pdai">pdai</a>
 <a href="https://www.wdbyte.com/" target="未读代码" title ="未读代码">未读代码</a>
 
-## 面试题
 [芋道源码](https://www.iocoder.cn)
 [小林coding](https://xiaolincoding.com)
 [面试鸭](https://www.mianshiya.com/)
 [Java突击队](http://www.susan.net.cn/)
+[Java面试指北](https://github.com/Snailclimb/JavaGuide)
+[CS-Notes](https://github.com/CyC2018/CS-Notes)
+[力扣](https://leetcode.cn/problemset/)
+[Java开发者-阿里云](https://developer.aliyun.com/group/java/#/)
+[Hello 算法](https://www.hello-algo.com/chapter_hello_algo/)
 
 ## 接单
+
 <a href="https://codemart.com/" target = "码市" title= "码市">码市</a>
 <a href="https://www.proginn.com/" target = "程序员客栈" title= "程序员客栈">程序员客栈</a>
 <a href="https://www.yingxuan.co/" target = "英选" title= "英选">英选</a>
