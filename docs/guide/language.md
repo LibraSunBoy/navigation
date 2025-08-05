@@ -36,7 +36,7 @@
 [小林coding](https://xiaolincoding.com)
 [面试鸭](https://www.mianshiya.com/)
 [Java突击队](http://www.susan.net.cn/)
-[Java面试指北](https://github.com/Snailclimb/JavaGuide)
+[Java面试指北](https://javaguide.cn/javaguide/intro.html)
 [CS-Notes](https://github.com/CyC2018/CS-Notes)
 [力扣](https://leetcode.cn/problemset/)
 [Java开发者-阿里云](https://developer.aliyun.com/group/java/#/)
